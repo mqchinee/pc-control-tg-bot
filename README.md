@@ -1,6 +1,8 @@
 # PC Control Bot
 Последняя версия: `v1.0.0`
 
+[.EXE Версия](https://github.com/mqchinee/pc-control-tg-exe)
+
 ## Информация
 Заинтересовал код пользователя [@Fsoky](https://github.com/Fsoky)
 
